@@ -1,7 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/scienceverse/scienceverse.r-universe.dev
 	branch = HEAD
-[submodule "faux"]
-	path = faux
-	url = https://github.com/scienceverse/faux
+[submodule "metacheck"]
+	path = metacheck
+	url = https://github.com/scienceverse/metacheck
