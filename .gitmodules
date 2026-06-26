@@ -5,3 +5,7 @@
 [submodule "metacheck"]
 	path = metacheck
 	url = https://github.com/scienceverse/metacheck
+[submodule "metacheck.dev"]
+	path = metacheck.dev
+	url = https://github.com/scienceverse/metacheck
+	branch = dev
